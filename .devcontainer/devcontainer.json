@@ -1,0 +1,10 @@
+{
+    "image": "mcr.microsoft.com/vscode/devcontainers/typescript-node:14",
+    "extensions": [
+      "ms-vscode.vscode-typescript-next",
+      "esbenp.prettier-vscode",
+      "dbaeumer.vscode-eslint",
+      "aaron-bond.better-comments",
+      "coenraads.bracket-pair-colorizer"
+    ],
+}
